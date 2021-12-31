@@ -1,6 +1,6 @@
 const tem = document.querySelector(".js-temp");
 const pla = document.querySelector(".js-place");
-const API_KEY ="58a490266d0603b4e75619f8ac521a24"; //OpenWeather API Key
+const API_KEY ="Input your Key"; //OpenWeather API Key
 const COORDS = 'coords'
 
 //Openweather API 에서 위도 경도를 이용하여 날씨와 장소 받아오기 
